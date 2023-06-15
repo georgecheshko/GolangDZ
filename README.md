@@ -1,2 +1,4 @@
 # GolangDZ
-For my homeworks
+Programming homework (Golang)
+Student: Cheshko George 
+Group: MLDS 2022
